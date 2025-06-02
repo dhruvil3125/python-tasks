@@ -1,2 +1,5 @@
 # python-tasks
-python scripts for task1 and task2
+This repository contains two python scripts :
+# Task1 
+# Task2
+
